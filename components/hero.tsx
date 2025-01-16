@@ -37,7 +37,7 @@ export function Hero() {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.8, delay: 0.6 }}
                     >
-                        Driven technologist passionate about learning, growing, and contributing to impactful projects.
+                        Here to learn, build, learn and build some more.
                     </motion.p>
 
                     <motion.div
