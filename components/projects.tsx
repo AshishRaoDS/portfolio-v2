@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion"
 import { useInView } from "react-intersection-observer"
-import { GithubIcon, ExternalLinkIcon } from 'lucide-react'
+import { GithubIcon } from 'lucide-react'
 
 const projects = [
     {
