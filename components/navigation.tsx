@@ -31,7 +31,7 @@ export function Navigation() {
             animate={{ y: 0 }}
             transition={{ duration: 0.8 }}
         >
-            <div className="container px-4 mx-auto overflow-x-auto">
+            <div className="container px-4 mx-auto overflow-x-auto scrollbar-hide">
                 <ul className="flex flex-wrap justify-center gap-4 md:gap-8">
                     {navItems.map((item) => (
                         <li key={item.name}>
